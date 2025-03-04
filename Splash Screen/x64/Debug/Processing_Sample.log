@@ -1,0 +1,12 @@
+﻿  main.c
+  block.c
+  game.c
+  main_menu.c
+  player.c
+C:\Users\alkhlil\Desktop\GITHUB PROJECT\Create-level-design\Src\main_menu.c(82,110): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+C:\Users\alkhlil\Desktop\GITHUB PROJECT\Create-level-design\Src\main_menu.c(82,138): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+C:\Users\alkhlil\Desktop\GITHUB PROJECT\Create-level-design\Src\main_menu.c(100,17): warning C4013: 'StartGame' undefined; assuming extern returning int
+  Processing_Sample.vcxproj -> C:\Users\alkhlil\Desktop\GITHUB PROJECT\Create-level-design\x64\Debug\Splash Screen.exe
+  1 File(s) copied
+  1 File(s) copied
+  37 File(s) copied
