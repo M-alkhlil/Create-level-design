@@ -9,9 +9,6 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Src\block.c">
-      <Filter>Src</Filter>
-    </ClCompile>
     <ClCompile Include="Src\game.c">
       <Filter>Src</Filter>
     </ClCompile>
@@ -26,9 +23,6 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Inc\block.h">
-      <Filter>Inc</Filter>
-    </ClInclude>
     <ClInclude Include="Inc\player.h">
       <Filter>Inc</Filter>
     </ClInclude>

@@ -1,8 +1,9 @@
-﻿  main.c
-  block.c
-  game.c
-  main_menu.c
-  player.c
+﻿  main_menu.c
+  main.c
+C:\Users\alkhlil\Desktop\GITHUB PROJECT\Create-level-design\Src\main_menu.c(62,5): warning C4064: switch of incomplete enum 'SplashScreenState'
+  C:\Users\alkhlil\Desktop\GITHUB PROJECT\Create-level-design\Src\main_menu.c(31,6):
+  see declaration of 'SplashScreenState'
+  
 C:\Users\alkhlil\Desktop\GITHUB PROJECT\Create-level-design\Src\main_menu.c(82,110): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
 C:\Users\alkhlil\Desktop\GITHUB PROJECT\Create-level-design\Src\main_menu.c(82,138): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
 C:\Users\alkhlil\Desktop\GITHUB PROJECT\Create-level-design\Src\main_menu.c(100,17): warning C4013: 'StartGame' undefined; assuming extern returning int
