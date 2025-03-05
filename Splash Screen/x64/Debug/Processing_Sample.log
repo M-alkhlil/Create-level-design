@@ -1,13 +1,7 @@
-﻿  main_menu.c
-  main.c
-C:\Users\alkhlil\Desktop\GITHUB PROJECT\Create-level-design\Src\main_menu.c(62,5): warning C4064: switch of incomplete enum 'SplashScreenState'
-  C:\Users\alkhlil\Desktop\GITHUB PROJECT\Create-level-design\Src\main_menu.c(31,6):
-  see declaration of 'SplashScreenState'
-  
-C:\Users\alkhlil\Desktop\GITHUB PROJECT\Create-level-design\Src\main_menu.c(82,110): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
-C:\Users\alkhlil\Desktop\GITHUB PROJECT\Create-level-design\Src\main_menu.c(82,138): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
-C:\Users\alkhlil\Desktop\GITHUB PROJECT\Create-level-design\Src\main_menu.c(100,17): warning C4013: 'StartGame' undefined; assuming extern returning int
+﻿  level.c
+C:\Users\alkhlil\Desktop\GITHUB PROJECT\Create-level-design\Src\level.c(89,19): warning C4047: 'function': 'CP_Image *' differs in levels of indirection from 'CP_Image'
+C:\Users\alkhlil\Desktop\GITHUB PROJECT\Create-level-design\Src\level.c(89,19): warning C4024: 'CP_Image_Free': different types for formal and actual parameter 1
   Processing_Sample.vcxproj -> C:\Users\alkhlil\Desktop\GITHUB PROJECT\Create-level-design\x64\Debug\Splash Screen.exe
   1 File(s) copied
   1 File(s) copied
-  37 File(s) copied
+  41 File(s) copied

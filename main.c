@@ -10,7 +10,7 @@
 
 void main(void) {
 	//CP_Engine_SetNextGameState(InitializeGame, UpdateGame, ExitGame);
-	CP_System_SetWindowSize(800, 600); // Set window size
+	CP_System_SetWindowSize(1024, 1024); // Set window size
 
 	CP_Engine_SetNextGameState(InitializeSplashScreen, UpdateSplashScreen, ExitSplashScreen);
 

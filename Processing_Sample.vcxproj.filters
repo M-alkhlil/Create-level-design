@@ -21,6 +21,9 @@
     <ClCompile Include="Src\main_menu.c">
       <Filter>Src</Filter>
     </ClCompile>
+    <ClCompile Include="Src\level.c">
+      <Filter>Src</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Inc\player.h">
@@ -33,6 +36,9 @@
       <Filter>Inc</Filter>
     </ClInclude>
     <ClInclude Include="Inc\splashscreen.h">
+      <Filter>Inc</Filter>
+    </ClInclude>
+    <ClInclude Include="Inc\level.h">
       <Filter>Inc</Filter>
     </ClInclude>
   </ItemGroup>
